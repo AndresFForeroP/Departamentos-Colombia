@@ -6,6 +6,7 @@ h1{
     text-align: center;
     color:blueviolet;
     text-shadow: 1px 1px black;
+    padding: 15px;
 }
 .mapa{
     text-align: center;
@@ -15,4 +16,24 @@ h1{
 }
 img{
     width: 300px;
+}
+p{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    text-shadow: 1px 1px black;
+    color: darkmagenta;
+}
+.img_municipio{
+    display: inline-block;
+    border: 2px solid black;
+    height: auto;
+    text-align: center;
+}
+img{
+    display: block;
+}
+.listas{
+    text-align: center;
 }
