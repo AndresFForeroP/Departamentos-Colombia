@@ -1,6 +1,101 @@
 *{
-    background-color: aliceblue;
+    background-color:rgb(173, 230, 211);
 }
 img{
-    height: 15%;
+    width: auto;
+    object-fit: contain;
+}
+h1{
+    color:orchid;
+    text-shadow: 1px 1px black;
+}
+.div-mapa{
+    position: absolute;
+    border: 4px outset purple;
+}
+.antioquia{
+    position: absolute;
+    font-size:smaller;
+    background-color:transparent ;
+    color:black;
+    top: 33%;
+    left: 28%;
+    text-decoration: none;
+    text-shadow: 1px 1px white;
+}
+.antioquia:hover{
+    font-size:medium;
+    color:white;
+    left: 26%;
+    text-shadow: 1px 1px black;
+}
+.norte{
+    position: absolute;
+    font-size:smaller;
+    background-color:transparent ;
+    color: black;
+    top: 25%;
+    left: 51%;
+    text-decoration: none;
+    text-shadow: 1px 1px white;
+}
+.norte:hover{
+    font-size:medium;
+    color:white;
+    left: 50%;
+    text-shadow: 1px 1px black;
+}
+.amazonas{
+    position: absolute;
+    font-size:medium;
+    background-color:transparent;
+    color: black;
+    top: 79%;
+    left: 49%;
+    text-decoration: none;
+    text-shadow: 1px 1px white;
+}
+.amazonas:hover{
+    font-size:large;
+    color:white;
+    left: 47%;
+    text-shadow: 1px 1px black;
+}
+.cundinamarca{
+    position: absolute;
+    font-size:small;
+    background-color:transparent;
+    color: black;
+    top: 44%;
+    left: 43%;
+    text-decoration: none;
+    text-shadow: 1px 1px white;
+}
+.cundinamarca:hover{
+    font-size:medium;
+    color:white;
+    left: 42%;
+    text-shadow: 1px 1px black;
+}
+.caqueta{
+    position: absolute;
+    font-size:medium;
+    background-color:transparent;
+    color: black;
+    top: 66%;
+    left: 37%;
+    text-decoration: none;
+    text-shadow: 1px 1px white;
+}
+.caqueta:hover{
+    font-size:large;
+    color:white;
+    left: 36%;
+    text-shadow: 1px 1px black;
+}
+.mona_china{
+    position: fixed;
+    width: 110px;
+    top: 81%;
+    left: 0%;
 }
